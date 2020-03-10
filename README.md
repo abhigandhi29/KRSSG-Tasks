@@ -31,4 +31,4 @@ Add your Image location in line no 102 and 109 in turtlesend/src/pathfinder1.cpp
 Go into your catkin workspace directory in all three terminals and run "rosrun turtlesim turtlesim_node","rosrun turtlesend PID1","rosrun turtlesend pathfinder1" respectively i.e one after another.
 
 ## Task 4
-Simly read task4.txt file in Task 4 folder.
+Simply read task4.txt file in Task 4 folder.
