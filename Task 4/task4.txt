@@ -1,0 +1,4 @@
+Q1
+Reward function=-1.0*th**2-0.1*thdot**2-0.001*u**2 in py
+here th is angle with vertical axis considering if rod is vertically upward angle is 0
+thdot is angular velocity and u is torque 
