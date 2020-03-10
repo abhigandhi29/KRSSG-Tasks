@@ -1,4 +1,4 @@
-# KRSSG-Tasks
+# KRSSG-Task
 ## Task 1
 
 For Runing Task 1 
