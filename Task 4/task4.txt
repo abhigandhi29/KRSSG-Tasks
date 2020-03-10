@@ -2,3 +2,14 @@ Q1
 Reward function=-1.0*th**2-0.1*thdot**2-0.001*u**2 in py
 here th is angle with vertical axis considering if rod is vertically upward angle is 0
 thdot is angular velocity and u is torque 
+
+Q2
+If we decrease constant curresponding to velocity term then the stability of policy decreases
+
+and If we increase the constant curresponding to angle offset policy gradient decreases which also makes policy bad and it's determination more time consuming
+
+If we do both together obviously optimal policy will become bad and difficult to find
+
+
+Q3
+If we addd another term to support rightward angular velocity policy become more unstable i.e simply aur quality of aur optimal policy decreases.
